@@ -1,0 +1,634 @@
+/*header {
+	height: 260px;
+	text-align: left;
+	margin: 0px 0px 20px 0px;
+	background-color: #304050;
+}
+
+header nav{
+	width: auto;
+	height: 260px;
+	float: left;
+	margin-top: 12px;
+}
+
+body {
+	font-family: 'Ubuntu' !important;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+*/
+/* Estilo página BSI */
+
+:root {
+	--bsi: #38719c;
+	--disciplinas: #ca8977;
+	--alunos: #96b496;
+	--tcc: #73adae;
+	--professores: #c8a0b4;
+	--oportunidades: #89749f;
+	--secretaria: #924e4d;
+	--institucional: #7f8c8d;
+	--noticias: #b5b583;
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin:0;
+	border: 0;
+	padding: 0;
+	background: #F6F6F6;
+	color: #404040;
+	font-family: 'Ubuntu', Verdana, sans-serif;
+	font-size: 10pt;
+	overflow: auto;
+	text-align: center;
+	/*position: fixed;*/
+	width: 100% !important;
+}
+
+h1, h2, h3 {
+	font-family: "Dosis", Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+h1 { font-size: 15pt;
+	margin: 0.3em 0 0.5em 0;
+}
+
+h2 {
+	font-size: 12pt;
+	margin: 1.5em 0 0.5em 0;
+}
+
+p {
+	margin: 0 0 1em 0em;
+	line-height: 1.5em;
+	color: #404040;
+}
+
+blockquote {
+	margin: 0 10% 1em 10%;
+	line-height: 1.5em;
+	font-style: italic;
+}
+
+a , a:link {
+	text-decoration: none;
+	border: 0;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.container-big {
+	text-align: left;
+	margin: 0 auto;
+	width: 990px;
+}
+
+.container-small {
+	text-align: left;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 990px;
+}
+
+
+/* header */
+
+header {
+	height: 260px;
+	text-align: left;
+	margin-bottom: 12px;
+	background-color: #304050;
+}
+
+header nav{
+	width: 990px;
+	height: 260px;
+	float: left;
+}
+
+.header-min {
+	height: 100px;
+	text-align: left;
+	margin-bottom: 12px;
+	background-color: #38719c;
+}
+
+/* Ícones das Seções do site*/
+.icone{
+	width: auto;
+	height: auto;
+	float:left;
+	border: 1px solid #304050;
+	opacity:0.60;
+	-moz-opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+
+.icone:hover{
+	border-color: silver;
+	opacity:0.80;
+	-moz-opacity: 0.80;
+	filter: alpha(opacity=80);
+}
+
+.iconeAtivo{
+	width: auto;
+	height: auto;
+	float:left;
+	border: 1px solid #ffffff;
+	opacity:1.0;
+	-moz-opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+
+.pbr-10{
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.linha-maior {
+	height: 120px;
+}
+
+.icone img { padding-top: 15px; border: 0;}
+.iconeAtivo img { padding-top: 15px; border: 0;}
+.bsi img { padding-top: 40px;}
+.noticias img { padding-top: 60px;}
+
+li.monografia {margin-bottom: 20px;}
+.monografiaTitulo {font-weight: bold;}
+
+.normal{
+    width: 111px;
+	height: 111px;
+}
+
+.largo{
+	width: 234px; /* 2 pixels a mais para compensar a borda dos ícones em baixo */
+	height: 111px;
+}
+
+.grande{
+	width: 234px;
+	height: 234px;
+}
+
+.semMargem{
+	padding: 0px;
+}
+
+/* cores dos ícones */
+.bsi{background-color: #38719c;}
+.disciplinas{background-color: #ca8977;}
+.alunos{background-color: #96b496;}
+.tcc{background-color: #73adae;}
+.professores{background-color: #c8a0b4 !important;}
+.oportunidades{background-color: #89749f;}
+.secretaria{background-color: #924e4d;}
+.institucional{background-color: #7f8c8d;}
+.noticias{background-color: #b5b583;}
+
+/* Legendas Ícones */
+.subtitle{
+	color: #ffffff;
+	font-size: 11px;
+	font: 12px "Dosis", sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.subtitleGrande{
+	font-size: 17px;
+}
+
+.subtitle-small{
+	width: 70px;
+	color: #ffffff;
+	font-size: 11px;
+	font: 8.5px "Dosis", sans-serif;
+	margin-top: 1.0em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.bsi-pequeno {
+	width: 100%;
+	height: 100%;
+}
+
+.subtitle-smallGrande{
+	font-size: 12px;
+}
+
+
+/* Barra de submenu */
+
+aside{
+	font-family: "Dosis", Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 10pt;
+	float:left;
+   	width:100%;
+}
+
+.menu{
+	width: 100%;
+	list-style-type: none;
+}
+
+.menu li{
+	position: relative;
+}
+
+.menu li a{
+	display: block;
+    text-decoration: none;
+    color: #404040;
+    padding: 10px 20px 10px 10px;
+    border-bottom: 1px solid #ddd;
+   	background: #eceeee url(./assets/images/iSetaPequena.png) no-repeat right;
+}
+
+.menu li a:hover{
+	background: #cfd2d1 url(./assets/images/iSeta.png) no-repeat right;
+}
+
+.menu li.ativo a {
+	color: #FFFFFF;
+	background: url(./assets/images/iSetaBranca.png) no-repeat right;
+	font-weight: bold;
+}
+
+.menu li:first-child {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+
+aside li.submenu a{
+    	padding: 5px 20px 5px 30px;
+	font-size: 8pt;
+}
+
+aside li.submenu2 a{
+	padding: 8px 20px 8px 18px;
+	font-size: 8pt;
+}
+
+
+/* Conteúdo principal */
+article{
+    width:100%;
+    text-align: justify;
+}
+
+
+article ul, ol, dl {
+	margin: 1em 0 1.5em 0em;
+}
+
+article li, dt, dd {
+	line-height: 1.5em;
+}
+
+article li {
+	margin: 0px 0 0 25px;
+}
+
+article dt {
+   	background: url(./assets/images/iSetaPequena.png);
+    	background-repeat: no-repeat;
+    	background-position: 0 2px;
+    	padding: 0 0 0 15px;
+	font-weight: bold;
+	margin: 0px 0 0.5em 10px;
+}
+
+article dd {
+	margin-left: 25px;
+	margin-bottom: 1.5em;
+}
+
+article img{
+	max-width: 100%;
+}
+
+iframe {
+	width: 100%;
+	max-width: 560px;
+}
+
+/* EIA */
+
+section#eia{
+	padding: 0.5em 0 0 0;
+}
+
+section#eia img{
+	float:left;
+	display:inline;
+	margin: -1.25em 0.5em 0 0;
+}
+
+
+.clear {
+    clear: both;
+}
+
+
+.muralEIA{
+        margin: 20px 0 0 0;
+}
+
+
+
+/* Rodapé */
+
+footer {
+	margin-top: 5em;
+}
+
+#RodapeMenu{
+	height: 50px;
+	background-color: #bcc0c0;
+	color: #2c3e50;
+}
+
+#RodapeMenu a{
+	color: #404040;
+	font-weight: normal;
+}
+
+#RodapeMenu a:hover{
+	color: #000000;
+}
+
+#facebook {
+	position: relative;
+	top: -20px;
+}
+
+#facebook a {
+
+}
+
+#RodapeMenu ul{
+	position: relative;
+	top: -20px;
+}
+
+
+#RodapeMenu li {
+	display: inline;
+	font-family: "Dosis", Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 9pt;
+	padding: 0 5px;
+	border-left: 1px solid gray;
+	margin-top: -20px;
+}
+
+#RodapeMenu li:first-child {
+	border: 0;
+}
+
+#RodapeLocalizacao{
+	color: #cccccc;
+	height: 70px;
+	background-color: #2c3e50;
+	padding-top: 10px;
+}
+
+#RodapeLocalizacao a{
+	margin-top: 5px;
+}
+
+#RodapeLocalizacao p{
+	color: #c0c0c0;
+	padding-top: 10px;
+	margin-bottom: 0px;
+}
+
+#RodapeLocalizacao img{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+
+#RodapeLocalizacao a{
+	color: #c0c0c0;
+}
+
+/* off-canvas */
+
+.off-canvas {
+	background-color: #304050;
+	color: #ffffff;
+    height: 100%; /* 100% Full-height */
+	width: 0; /* 0 width - change this with JavaScript */
+	max-width: 400px;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.3s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.menuOffcanvas{
+	width: 100%;
+	text-transform: uppercase;
+	text-align: left;
+	list-style-type: none;
+}
+
+.menuOffcanvas li{
+	position: relative;
+}
+
+.header_offcanvas {
+	padding: 15px 10px;
+}
+
+.header_offcanvas div {
+	font-size: 20pt;
+}
+
+.titulo {
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+    padding: 10px 20px 10px 10px;
+}
+
+li[aria-expanded=true] .mdi-expand-more {
+	display: none;
+}
+
+li[aria-expanded=false] .mdi-expand-less {
+	display: none;
+}
+
+.b-padrao {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #304050 !important;
+}
+
+.b-bsi {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #38719c !important;
+}
+
+.b-disciplinas {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #ca8977 !important;
+}
+
+.b-alunos {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #96b496 !important;
+}
+
+.b-tcc {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #73adae !important;
+}
+
+.b-professores {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #c8a0b4 !important;
+}
+
+.b-oportunidades {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #89749f !important;
+}
+
+.b-secretaria {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #924e4d !important;
+}
+
+.b-institucional {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #7f8c8d !important;
+}
+
+.b-noticias {
+	border-bottom-width: 3px !important;
+	border-bottom-color: #b5b583 !important;
+}
+
+.iconePequeno {
+	width: 7%;
+	height: 7%;
+	max-width: 20px;
+	max-height: 20px;
+}
+
+/* transforma asides em sub-menus */
+
+#collapseBSI aside,
+#collapseDisciplinas aside,
+#collapseAlunos aside,
+#collapseTCC aside,
+#collapseProfessores aside,
+#collapseOportunidades aside,
+#collapseSecretaria aside,
+#collapseInstitucional aside {
+	font-family: "Ubuntu", Verdana, sans-serif;
+	text-transform: uppercase;
+	font-size: 9pt;
+	float:left;
+   	width:100%;
+}
+#collapseBSI aside .menu li,
+#collapseDisciplinas aside .menu li,
+#collapseAlunos aside .menu li,
+#collapseTCC aside .menu li,
+#collapseProfessores aside .menu li,
+#collapseOportunidades aside .menu li,
+#collapseSecretaria aside .menu li,
+#collapseInstitucional aside .menu li {
+	font-family: "Ubuntu", Verdana, sans-serif;
+	text-transform: uppercase;
+	font-size: 9pt;
+	float:left;
+   	width:100%;
+	border-bottom: 3px solid #304050;
+}
+
+#collapseBSI aside .menu li a {
+	background-color: var(--bsi);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseDisciplinas aside .menu li a {
+	background-color: var(--disciplinas);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseAlunos aside .menu li a {
+	background-color: var(--alunos);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseTCC aside .menu li a {
+	background-color: var(--tcc);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseProfessores aside .menu li a {
+	background-color: var(--professores);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseOportunidades aside .menu li a {
+	background-color: var(--oportunidades);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseSecretaria aside .menu li a {
+	background-color: var(--secretaria);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
+#collapseInstitucional aside .menu li a {
+	background-color: var(--institucional);
+	color: #ffffff;
+	border-bottom: 0;
+	padding-left: 30px;
+}
+
