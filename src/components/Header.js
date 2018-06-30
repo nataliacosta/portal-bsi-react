@@ -1,13 +1,13 @@
 import React from 'react';
-import iBSI from './assets/images/iBSI.png';
-import iAlunos from './assets/images/iAlunos.png';
-import iDisciplinas from './assets/images/iDisciplinas.png';
-import iInstitucional from './assets/images/iInstitucional.png';
-import iNoticias from './assets/images/iNoticias.png';
-import iOportunidades from './assets/images/iOportunidades.png';
-import iProfessores from './assets/images/iProfessores.png';
-import iSecretaria from './assets/images/iSecretaria.png';
-import iTCC from './assets/images/iTCC.png';
+import iBSI from '../assets/images/iBSI.png';
+import iAlunos from '../assets/images/iAlunos.png';
+import iDisciplinas from '../assets/images/iDisciplinas.png';
+import iInstitucional from '../assets/images/iInstitucional.png';
+import iNoticias from '../assets/images/iNoticias.png';
+import iOportunidades from '../assets/images/iOportunidades.png';
+import iProfessores from '../assets/images/iProfessores.png';
+import iSecretaria from '../assets/images/iSecretaria.png';
+import iTCC from '../assets/images/iTCC.png';
 
 const Header = () => {
     return (

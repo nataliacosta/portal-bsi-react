@@ -4,8 +4,9 @@ class Content extends Component {
     state = {}
 
     componentDidMount() {
-        const path = './assets/contents' + this.props.path;
-        import(`${path}`)
+        //const path = '../assets/contents' + this.props.path + ".html";
+        const path = this.props.path + '.html';
+        import(`../assets/contents${path}`)
             .then(page => (this.setState({page})));
     }
 

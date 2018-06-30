@@ -1,689 +1,689 @@
 {
     "bsi": {
-        "subs": [
-            {
+        "subs": {
+            "bsi": {
                 "title": "BSI - UNIRIO",
-                "content": "/bsi/index.html"
+                "content": "/bsi"
             },
-            {
+            "historico": {
                 "title": "Histórico",
-                "content": "/bsi/historico.html"
+                "content": "/bsi/historico"
             },
-            {
+            "localizacao": {
                 "title": "Localização e Contato",
-                "content": "/bsi/localizacao.html"
+                "content": "/bsi/localizacao"
             },
-            {
+            "depoimentos": {
                 "title": "Depoimentos",
-                "content": "/bsi/depoimentos.html"
+                "content": "/bsi/depoimentos"
             }
-        ]
+        }
     },
     "disciplinas": {
-        "subs": [
-            {
+        "subs": {
+            "disciplinas": {
                 "title": "Disciplinas",
-                "content": "/disciplinas/index.html"
+                "content": "/disciplinas"
             },
-            {
+            "obrigatorias": {
                 "title": "Obrigatórias",
-                "content": "/disciplinas/obrigatorias.html",
-                "subs": [
-                    {
+                "content": "/disciplinas/obrigatorias",
+                "subs": {
+                    "admfinanceira": {
                         "title": "Administração Financeira",
-                        "content": "/disciplinas/ementas/admfinanceira.html"
+                        "content": "/disciplinas/ementas/admfinanceira"
                     },
-                    {
+                    "alglinear": {
                         "title": "Álgebra Linear",
-                        "content": "/disciplinas/ementas/alglinear.html"
+                        "content": "/disciplinas/ementas/alglinear"
                     },
-                    {
+                    "aa": {
                         "title": "Análise de Algoritmo",
-                        "content": "/disciplinas/ementas/aa.html"
+                        "content": "/disciplinas/ementas/aa"
                     },
-                    {
+                    "as": {
                         "title": "Análise de Sistemas",
-                        "content": "/disciplinas/ementas/as.html"
+                        "content": "/disciplinas/ementas/as"
                     },
-                    {
+                    "aea": {
                         "title": "Análise Empresarial e Admin.",
-                        "content": "/disciplinas/ementas/aea.html"
+                        "content": "/disciplinas/ementas/aea"
                     },
-                    {
+                    "bd1": {
                         "title": "Banco de Dados I",
-                        "content": "/disciplinas/ementas/bd1.html"
+                        "content": "/disciplinas/ementas/bd1"
                     },
-                    {
+                    "bd2": {
                         "title": "Banco de Dados II",
-                        "content": "/disciplinas/ementas/bd2.html"
+                        "content": "/disciplinas/ementas/bd2"
                     },
-                    {
+                    "calc1": {
                         "title": "Cálculo Diferenc. e Integral I",
-                        "content": "/disciplinas/ementas/calc1.html"
+                        "content": "/disciplinas/ementas/calc1"
                     },
-                    {
+                    "calc2": {
                         "title": "Cálculo Diferenc. e Integral II",
-                        "content": "/disciplinas/ementas/calc2.html"
+                        "content": "/disciplinas/ementas/calc2"
                     },
-                    {
+                    "dpw": {
                         "title": "Desenvolv. de Páginas Web",
-                        "content": "/disciplinas/ementas/dpw.html"
+                        "content": "/disciplinas/ementas/dpw"
                     },
-                    {
+                    "empreendedorismo": {
                         "title": "Empreendedorismo",
-                        "content": "/disciplinas/ementas/empreen.html"
+                        "content": "/disciplinas/ementas/empreendedorismo"
                     },
-                    {
+                    "estatistica": {
                         "title": "Estatística",
-                        "content": "/disciplinas/ementas/estatistica.html"
+                        "content": "/disciplinas/ementas/estatistica"
                     },
-                    {
+                    "ed1": {
                         "title": "Estruturas de Dados I",
-                        "content": "/disciplinas/ementas/ed1.html"
+                        "content": "/disciplinas/ementas/ed1"
                     },
-                    {
+                    "ed2": {
                         "title": "Estruturas de Dados II",
-                        "content": "/disciplinas/ementas/ed2.html"
+                        "content": "/disciplinas/ementas/ed2"
                     },
-                    {
+                    "edc": {
                         "title": "Estruturas Discretas",
-                        "content": "/disciplinas/ementas/edc.html"
+                        "content": "/disciplinas/ementas/edc"
                     },
-                    {
+                    "fsi": {
                         "title": "Fund. de Sist. de Informação",
-                        "content": "/disciplinas/ementas/fsi.html"
+                        "content": "/disciplinas/ementas/fsi"
                     },
-                    {
+                    "gpi": {
                         "title": "Gerência de Proj. de Informat.",
-                        "content": "/disciplinas/ementas/gpi.html"
+                        "content": "/disciplinas/ementas/gpi"
                     },
-                    {
+                    "ihc": {
                         "title": "Interação Humano Computador",
-                        "content": "/disciplinas/ementas/ihc.html"
+                        "content": "/disciplinas/ementas/ihc"
                     },
-                    {
+                    "ilc": {
                         "title": "Introdução à Lógica Computac.",
-                        "content": "/disciplinas/ementas/intlogcomp.html"
+                        "content": "/disciplinas/ementas/intlogcomp"
                     },
-                    {
+                    "lfa": {
                         "title": "Linguag. Formais e Autômatos",
-                        "content": "/disciplinas/ementas/lfa.html"
+                        "content": "/disciplinas/ementas/lfa"
                     },
-                    {
+                    "matematica": {
                         "title": "Matemática Básica",
-                        "content": "/disciplinas/ementas/matematica.html"
+                        "content": "/disciplinas/ementas/matematica"
                     },
-                    {
+                    "oc": {
                         "title": "Organização de Computadores",
-                        "content": "/disciplinas/ementas/oc.html"
+                        "content": "/disciplinas/ementas/oc"
                     },
-                    {
+                    "prob": {
                         "title": "Probabilidade",
-                        "content": "/disciplinas/ementas/prob.html"
+                        "content": "/disciplinas/ementas/prob"
                     },
-                    {
+                    "psw": {
                         "title": "Processos de Software",
-                        "content": "/disciplinas/ementas/procsoft.html"
+                        "content": "/disciplinas/ementas/psw"
                     },
-                    {
+                    "pm": {
                         "title": "Programação Modular",
-                        "content": "/disciplinas/ementas/progmod.html"
+                        "content": "/disciplinas/ementas/pm"
                     },
-                    {
+                    "pg1": {
                         "title": "Projeto de Graduação I",
-                        "content": "/disciplinas/ementas/pg1.html"
+                        "content": "/disciplinas/ementas/pg1"
                     },
-                    {
+                    "pg2": {
                         "title": "Projeto de Graduação II",
-                        "content": "/disciplinas/ementas/pg2.html"
+                        "content": "/disciplinas/ementas/pg2"
                     },
-                    {
+                    "pcs": {
                         "title": "Proj. e Const. de Sistemas",
-                        "content": "/disciplinas/ementas/pcs.html"
+                        "content": "/disciplinas/ementas/pcs"
                     },
-                    {
+                    "pcssgbd": {
                         "title": "Proj. Const. Sistemas-SGBD",
-                        "content": "/disciplinas/ementas/pcssgbd.html"
+                        "content": "/disciplinas/ementas/pcssgbd"
                     },
-                    {
+                    "redes1": {
                         "title": "Redes de Computadores I",
-                        "content": "/disciplinas/ementas/redes1.html"
+                        "content": "/disciplinas/ementas/redes1"
                     },
-                    {
+                    "redes2": {
                         "title": "Redes de Computadores II",
-                        "content": "/disciplinas/ementas/redes2.html"
+                        "content": "/disciplinas/ementas/redes2"
                     },
-                    {
+                    "so": {
                         "title": "Sistemas Operacionais",
-                        "content": "/disciplinas/ementas/so.html"
+                        "content": "/disciplinas/ementas/so"
                     },
-                    {
+                    "tp1": {
                         "title": "Técnicas de Programação I",
-                        "content": "/disciplinas/ementas/tp1.html"
+                        "content": "/disciplinas/ementas/tp1"
                     },
-                    {
+                    "tp2": {
                         "title": "Técnicas de Programação II",
-                        "content": "/disciplinas/ementas/tp2.html"
+                        "content": "/disciplinas/ementas/tp2"
                     },
-                    {
+                    "tpd": {
                         "title": "Teorias e Práticas Discursivas",
-                        "content": "/disciplinas/ementas/tpdiscursivas.html"
+                        "content": "/disciplinas/ementas/tpd"
                     }
-                ]
+                }
             },
-            {
+            "eletivas": {
                 "title": "Eletivas",
-                "content": "/disciplinas/eletivas.html"
+                "content": "/disciplinas/eletivas"
             },
-            {
+            "optativas": {
                 "title": "Optativas",
-                "content": "/disciplinas/optativas.html",
-                "subs": [
-                    {
+                "content": "/disciplinas/optativas",
+                "subs": {
+                    "admbd": {
                         "title": "Administ. de Banco de Dados",
-                        "content": "/disciplinas/ementas/admbd.html"
+                        "content": "/disciplinas/ementas/admbd"
                     },
-                    {
+                    "algprobcomb": {
                         "title": "Algoritmos p/ Prob. Combinat.",
-                        "content": "/disciplinas/ementas/algprobcomb.html"
+                        "content": "/disciplinas/ementas/algprobcomb"
                     },
-                    {
+                    "unix": {
                         "title": "Ambiente Operacional Unix",
-                        "content": "/disciplinas/ementas/ambopunix.html"
+                        "content": "/disciplinas/ementas/ambopunix"
                     },
-                    {
+                    "compiladores": {
                         "title": "Compiladores",
-                        "content": "/disciplinas/ementas/compiladores.html"
+                        "content": "/disciplinas/ementas/compiladores"
                     },
-                    {
+                    "compgrafica": {
                         "title": "Computação Gráfica",
-                        "content": "/disciplinas/ementas/comsegdados.html"
+                        "content": "/disciplinas/ementas/compgrafica"
                     },
-                    {
+                    "compsegdados": {
+                        "title": "Computação e Segurança de Dados",
+                        "content": "/disciplinas/ementas/comsegdados"
+                    },
+                    "dsw": {
                         "title": "Desenvolv. de Servidor Web",
-                        "content": "/disciplinas/ementas/dsw.html"
+                        "content": "/disciplinas/ementas/dsw"
                     },
-                    {
+                    "fluxosredes": {
                         "title": "Fluxos em Redes",
-                        "content": "/disciplinas/ementas/fluxosredes.html"
+                        "content": "/disciplinas/ementas/fluxosredes"
                     },
-                    {
+                    "fundrcr": {
                         "title": "Fund. Repr. Conh. e Raciocínio",
-                        "content": "/disciplinas/ementas/fundrcr.html"
+                        "content": "/disciplinas/ementas/fundrcr"
                     },
-                    {
+                    "gdadp": {
                         "title": "Gerência de Dados em Amb. Distribuídos e Paralelos",
-                        "content": "/disciplinas/ementas/gdadp.html"
+                        "content": "/disciplinas/ementas/gdadp"
                     },
-                    {
+                    "gpn": {
                         "title": "Gest. de Processos de Negócios",
-                        "content": "/disciplinas/ementas/gpn.html"
+                        "content": "/disciplinas/ementas/gpn"
                     },
-                    {
+                    "infoeduc": {
                         "title": "Informática na Educação",
-                        "content": "/disciplinas/ementas/infoeduc.html"
+                        "content": "/disciplinas/ementas/infoeduc"
                     },
-                    {
+                    "ia": {
                         "title": "Inteligência Artificial",
-                        "content": "/disciplinas/ementas/ia.html"
+                        "content": "/disciplinas/ementas/ia"
                     },
-                    {
+                    "proglinear": {
                         "title": "Programação Linear",
-                        "content": "/disciplinas/ementas/proglinear.html"
+                        "content": "/disciplinas/ementas/proglinear"
                     },
-                    {
+                    "siscolab": {
                         "title": "Sistemas Colaborativos",
-                        "content": "/disciplinas/ementas/siscolab.html"
+                        "content": "/disciplinas/ementas/siscolab"
                     },
-                    {
+                    "sismultimidia": {
                         "title": "Sistemas Multimídia",
-                        "content": "/disciplinas/ementas/sismultimidia.html"
+                        "content": "/disciplinas/ementas/sismultimidia"
                     },
-                    {
+                    "taa1": {
                         "title": "Tóp. Avançados em Algoritmos",
-                        "content": "/disciplinas/ementas/taa1.html"
+                        "content": "/disciplinas/ementas/taa1"
                     },
-                    {
+                    "tabd1": {
                         "title": "Tóp. Avançados em BD I",
-                        "content": "/disciplinas/ementas/tabd1.html"
+                        "content": "/disciplinas/ementas/tabd1"
                     },
-                    {
+                    "tabd2": {
                         "title": "Tóp. Avançados em BD II",
-                        "content": "/disciplinas/ementas/tabd2.html"
+                        "content": "/disciplinas/ementas/tabd2"
                     },
-                    {
+                    "tabd3": {
                         "title": "Tóp. Avançados em BD III",
-                        "content": "/disciplinas/ementas/tabd3.html"
+                        "content": "/disciplinas/ementas/tabd3"
                     },
-                    {
+                    "taes1": {
                         "title": "Tóp. Avançados em Eng. Sw. I",
-                        "content": "/disciplinas/ementas/taes1.html"
+                        "content": "/disciplinas/ementas/taes1"
                     },
-                    {
+                    "taes2": {
                         "title": "Tóp. Avançados em Eng. Sw. II",
-                        "content": "/disciplinas/ementas/taes2.html"
+                        "content": "/disciplinas/ementas/taes2"
                     },
-                    {
+                    "tarc1": {
                         "title": "Tóp. Avan. em Redes de Comp. I",
-                        "content": "/disciplinas/ementas/tarc1.html"
+                        "content": "/disciplinas/ementas/tarc1"
                     },
-                    {
+                    "tarc2": {
                         "title": "Tóp. Avan. em Redes de Comp. II",
-                        "content": "/disciplinas/ementas/tarc2.html"
+                        "content": "/disciplinas/ementas/tarc2"
                     },
-                    {
+                    "tarc3": {
                         "title": "Tóp. Avan. em Redes de Comp. III",
-                        "content": "/disciplinas/ementas/tarc3.html"
+                        "content": "/disciplinas/ementas/tarc3"
                     }
-                ]
+                }
             },
-            {
+            "aces": {
                 "title": "Atividades Complementares",
-                "content": "/disciplinas/aces.html"
+                "content": "/disciplinas/aces"
             },
-            {
+            "horarios": {
                 "title": "Horário",
-                "content": "/disciplinas/horario.html"
+                "content": "/disciplinas/horario"
             }
-        ]
+        }
     },
     "alunos": {
-        "subs": [
-            {
+        "subs": {
+            "alunos": {
                 "title": "Alunos",
-                "content": "/alunos/index.html"
+                "content": "/alunos"
             },
-            {
+            "matriculados": {
                 "title": "Matriculados",
-                "content": "/alunos/matriculados.html"
+                "content": "/alunos/matriculados"
             },
-            {
+            "turmas": {
                 "title": "Turmas",
-                "content": "/alunos/turmas.html"
+                "content": "/alunos/turmas"
             },
-            {
+            "portal": {
                 "title": "Portal do Aluno",
-                "content": "/alunos/portalalunos.html"
+                "content": "/alunos/portalalunos"
             },
-            {
+            "dasi": {
                 "title": "Diretório Acadêmico",
-                "content": "/alunos/dasi.html"
+                "content": "/alunos/dasi"
             },
-            {
+            "carteirinha": {
                 "title": "Carteirinha de Estudante",
-                "content": "/alunos/carteirinha.html"
+                "content": "/alunos/carteirinha"
             },
-            {
+            "calendario": {
                 "title": "Calendário Acadêmico",
-                "content": "/alunos/calendario.html"
+                "content": "/alunos/calendario"
             },
-            {
+            "enade": {
                 "title": "ENADE",
-                "content": "/alunos/enade.html",
-                "subs": [
-                    {
+                "content": "/alunos/enade",
+                "subs": {
+                    "enade2017": {
                         "title": "Questões 2017",
-                        "content": "/alunos/enade2017.html"
+                        "content": "/alunos/enade2017"
                     },
-                    {
+                    "enade2014": {
                         "title": "Questões 2014",
-                        "content": "/alunos/enade2014.html"
+                        "content": "/alunos/enade2014"
                     },
-                    {
+                    "enade2011": {
                         "title": "Questões 2011",
-                        "content": "/alunos/enade2011.html"
+                        "content": "/alunos/enade2011"
                     },
-                    {
+                    "enade2008": {
                         "title": "Questões 2008",
-                        "content": "/alunos/enade2008.html"
+                        "content": "/alunos/enade2008"
                     },
-                    {
+                    "enade2005": {
                         "title": "Questões 2005",
-                        "content": "/alunos/enade2005.html"
+                        "content": "/alunos/enade2005"
                     }
-                ]
+                }
             }
-        ]
+        }
     },
     "tcc": {
-        "subs": [
-            {
+        "subs": {
+            "tcc": {
                 "title": "TCC",
-                "content": "/tcc/index.html"
+                "content": "/tcc"
             },
-            {
+            "tipos": {
                 "title": "Tipos de TCC",
-                "content": "/tcc/tipos.html"
+                "content": "/tcc/tipos"
             },
-            {
+            "processo": {
                 "title": "Processo",
-                "content": "/tcc/processo.html"
+                "content": "/tcc/processo"
             },
-            {
+            "modelo": {
                 "title": "Modelo",
-                "content": "/tcc/modelo.html"
+                "content": "/tcc/modelo"
             },
-            {
+            "projetos": {
                 "title": "Projetos para TCC",
-                "content": "/tcc/projetos.html"
+                "content": "/tcc/projetos"
             },
-            {
+            "publicacoes": {
                 "title": "Publicações",
-                "content": "/tcc/publicacoes.html"
+                "content": "/tcc/publicacoes"
             },
-            {
+            "agenda": {
                 "title": "Próximas Defesas",
-                "content": "/tcc/agenda.html"
+                "content": "/tcc/agenda"
             }
-        ]
+        }
     },
     "professores": {
-        "subs": [
-            {
+        "subs": {
+            "professores": {
                 "title": "Professores",
-                "content": "/processores/index.html"
+                "content": "/processores"
             },
-            {
+            "prof1": {
                 "title": "ADRIANA ALVIM",
                 "content": "/http://lattes.cnpq.br/1841338064901299"
             },
-            {
+            "prof2": {
                 "title": "ALEXANDRE ANDREATTA",
                 "content": "/http://lattes.cnpq.br/5998143228852295"
             },
-            {
+            "prof3": {
                 "title": "ASTERIO TANAKA",
                 "content": "/http://lattes.cnpq.br/8934031838766350"
             },
-            {
+            "prof4": {
                 "title": "BENUR GIRARDI",
                 "content": "/http://lattes.cnpq.br/9097100603040676"
             },
-            {
+            "prof5": {
                 "title": "BEATRIZ MALAJOVICH",
                 "content": "/http://lattes.cnpq.br/7250793021119630"
             },
-            {
+            "prof6": {
                 "title": "CARLOS CAMPOS",
                 "content": "/http://lattes.cnpq.br/8020803376969953"
             },
-            {
+            "prof7": {
                 "title": "CARLOS EDUARDO MELLO",
                 "content": "/http://lattes.cnpq.br/2417341890473612"
             },
-            {
+            "prof8": {
                 "title": "CLAUDIA CAPPELLI",
                 "content": "/http://lattes.cnpq.br/4930762936357558"
             },
-            {
+            "prof9": {
                 "title": "CRISTIANE DE MELO",
                 "content": "/http://lattes.cnpq.br/6183375000382666"
             },
-            {
+            "prof10": {
                 "title": "CRISTINA BICHARRA GARCIA",
                 "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4781889E0"
             },
-            {
+            "prof11": {
                 "title": "FELIPE RAFAEL RIBEIRO MELO",
                 "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4481222D9"
             },
-            {
+            "prof12": {
                 "title": "FERNANDA BAIÃO",
                 "content": "/http://lattes.cnpq.br/5068302552861597"
             },
-            {
+            "prof13": {
                 "title": "FLÁVIA SANTORO",
                 "content": "/http://lattes.cnpq.br/5377746284077362"
             },
-            {
+            "prof14": {
                 "title": "GLEISON SANTOS",
                 "content": "/http://lattes.cnpq.br/4616202382103338"
             },
-            {
+            "prof15": {
                 "title": "GEIZA MARIA HAMAZAKI DA SILVA",
                 "content": "/http://lattes.cnpq.br/2100358669537195"
             },
-            {
+            "prof16": {
                 "title": "HELISSON COUTINHO",
                 "content": "/http://lattes.cnpq.br/6452434384067273"
             },
-            {
+            "prof17": {
                 "title": "JEFFERSON ELBERT SIMÕES",
                 "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4237922U4"
             },
-            {
+            "prof18": {
                 "title": "JOSÉ RICARDO CEREJA",
                 "content": "/http://lattes.cnpq.br/7653288098116734"
             },
-            {
+            "prof19": {
                 "title": "KATE REVOREDO",
                 "content": "/http://lattes.cnpq.br/0814717344017544"
             },
-            {
+            "prof20": {
                 "title": "LEONARDO AZEVEDO",
                 "content": "/http://lattes.cnpq.br/7214791464543522"
             },
-            {
+            "prof21": {
                 "title": "LEONARDO ROCHA",
                 "content": "/http://lattes.cnpq.br/0780057318850413"
             },
-            {
+            "prof22": {
                 "title": "LUCIA MOUTINHO",
                 "content": "/http://lattes.cnpq.br/8226635424466952"
             },
-            {
+            "prof23": {
                 "title": "LUZIA TONON",
                 "content": "/http://lattes.cnpq.br/2170224269934506"
             },
-            {
+            "prof24": {
                 "title": "MANUEL CANÁRIO",
                 "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4227680D8"
             },
-            {
+            "prof25": {
                 "title": "MARCELO NASCIMENTO",
                 "content": "/http://lattes.cnpq.br/8150788816388146"
             },
-            {
+            "prof26": {
                 "title": "MÁRCIO BARROS",
                 "content": "/http://lattes.cnpq.br/0821562324429813"
             },
-            {
+            "prof27": {
                 "title": "MARIANO PIMENTEL",
                 "content": "/http://lattes.cnpq.br/1920411639358905"
             },
-            {
+            "prof28": {
                 "title": "MORGANNA DINIZ",
                 "content": "/http://lattes.cnpq.br/1415781875529432"
             },
-            {
+            "prof29": {
                 "title": "PEDRO MOURA",
                 "content": "/http://lattes.cnpq.br/6178823954090208"
             },
-            {
+            "prof30": {
                 "title": "RENATA ARAÚJO",
                 "content": "/http://lattes.cnpq.br/3589012014320121"
             },
-            {
+            "prof31": {
                 "title": "RODRIGO SANTOS",
                 "content": "/http://lattes.cnpq.br/8613736894676086"
             },
-            {
+            "prof32": {
                 "title": "SEAN SIQUEIRA",
                 "content": "/http://lattes.cnpq.br/2562652838103607"
             },
-            {
+            "prof33": {
                 "title": "SIDNEY LUCENA",
                 "content": "/http://lattes.cnpq.br/7099151449971406"
             },
-            {
+            "prof34": {
                 "title": "SIMONE LEAL FERREIRA",
                 "content": "/http://lattes.cnpq.br/0926018459123736"
             },
-            {
+            "prof35": {
                 "title": "VÂNIA FÉLIX DIAS",
                 "content": "/http://lattes.cnpq.br/0398675521406529"
             }
-        ]
+        }
     },
     "oportunidades": {
-        "subs": [
-            {
+        "subs": {
+            "oportunidades": {
                 "title": "Oportunidades",
-                "content": "/oportunidades/index.html"
+                "content": "/oportunidades"
             },
-            {
+            "prae": {
                 "title": "PRAE",
                 "content": "/http://www.unirio.br/pro-reitorias/pro-reitoria-de-assuntos-estudantis"
             },
-            {
+            "monitoria": {
                 "title": "Monitoria",
                 "content": "/http://www.unirio.br/prograd/editais"
             },
-            {
+            "inicient": {
                 "title": "Iniciação Científica",
                 "content": "/http://www.unirio.br/propg/diretoria-de-pesquisa/legislacao/regulamentacao-programa-de-iniciacao-cientifica/at_download/file"
             },
-            {
+            "mobilidade": {
                 "title": "Mobilidade Acadêmica",
-                "content": "/oportunidades/index.html"
+                "content": "/oportunidades/index"
             },
-            {
+            "estagios": {
                 "title": "Estágios",
                 "content": "/http://www.unirio.br/prograd/estagios-e-convenios"
             }
-        ]
+        }
     },
     "secretaria": {
         "page": "secretaria",
-        "subs": [
-            {
+        "subs": {
+            "secretaria": {
                 "title": "Secretaria",
-                "content": "/secretaria/index.html"
+                "content": "/secretaria"
             },
-            {
+            "atendimento": {
                 "title": "Atendimento ao Aluno",
-                "content": "/secretaria/atendimentoAoAluno.html",
-                "subs": [
-                    {
+                "content": "/secretaria/atendimentoAoAluno",
+                "subs": {
+                    "atualizacaoCadastro": {
                         "title": "ATUALIZAÇÃO DE CADASTRO",
-                        "content": "/secretaria/atualizacaoCadastro.html"
+                        "content": "/secretaria/atualizacaoCadastro"
                     },
-                    {
+                    "atualizacaoMatricula": {
                         "title": "CANCELAMENTO DE MATRICULA",
-                        "content": "/secretaria/cancelamentoMatricula.html"
+                        "content": "/secretaria/atualizacaoMatricula"
                     },
-                    {
+                    "emissaoCertificadoDiploma": {
                         "title": "EMISSÃO DE CERTIFICADO DO DIPLOMA",
-                        "content": "/secretaria/emissaoCertificadoDiploma.html"
+                        "content": "/secretaria/emissaoCertificadoDiploma"
                     },
-                    {
+                    "declaracaoRegularmenteMatriculado": {
                         "title": "DECLARAÇÃO DE REGULARMENTE MATRICULADO",
-                        "content": "/secretaria/declaracaoRegularmenteMatriculado.html"
+                        "content": "/secretaria/declaracaoRegularmenteMatriculado"
                     },
-                    {
+                    "declaracaoConclusaoCurso": {
                         "title": "DECLARAÇÃO DE CONCLUSÃO DE CURSO",
-                        "content": "/secretaria/declaracaoConclusaoCurso.html"
+                        "content": "/secretaria/declaracaoConclusaoCurso"
                     },
-                    {
+                    "declaracaoContagemCreditos": {
                         "title": "DECLARAÇÃO DE CONTAGEM DE CRÉDITOS",
-                        "content": "/secretaria/declaracaoContagemCreditos.html"
+                        "content": "/secretaria/declaracaoContagemCreditos"
                     },
-                    {
+                    "emissaoHistoricoEscolar": {
                         "title": "EMISSÃO DE HISTÓRICO ESCOLAR",
-                        "content": "/secretaria/emissaoHistoricoEscolar.html"
+                        "content": "/secretaria/emissaoHistoricoEscolar"
                     },
-                    {
+                    "emissaoProgramaDisciplinas": {
                         "title": "EMISSAO DO PROGRAMA DE DISCIPLINAS",
-                        "content": "/secretaria/emissaoProgramaDisciplinas.html"
+                        "content": "/secretaria/emissaoProgramaDisciplinas"
                     },
-                    {
+                    "exclusaoDisciplina": {
                         "title": "EXCLUSÃO DE DISCIPLINA",
-                        "content": "/secretaria/exclusaoDisciplina.html"
+                        "content": "/secretaria/exclusaoDisciplina"
                     },
-                    {
+                    "inclusaoDisciplina": {
                         "title": "INCLUSÃO DE DISCIPLINA",
-                        "content": "/secretaria/inclusaoDisciplina.html"
+                        "content": "/secretaria/inclusaoDisciplina"
                     },
-                    {
+                    "inscricaoDisciplinaIsolada": {
                         "title": "INSCRIÇÃO EM DISCIPLINA ISOLADA",
-                        "content": "/secretaria/inscricaoDisciplinaIsolada.html"
+                        "content": "/secretaria/inscricaoDisciplinaIsolada"
                     },
-                    {
+                    "isencaoAproveitamentoDisciplina": {
                         "title": "ISENÇÃO OU APROVEITAMENTO DE DISCIPLINA",
-                        "content": "/secretaria/isencaoAproveitamentoDisciplina.html"
+                        "content": "/secretaria/isencaoAproveitamentoDisciplina"
                     },
-                    {
+                    "realizacaoSegundaChamadaProva": {
                         "title": "REALIZAÇÃO DE SEGUNDA CHAMADA DE PROVA",
-                        "content": "/secretaria/realizacaoSegundaChamadaProva.html"
+                        "content": "/secretaria/realizacaoSegundaChamadaProva"
                     },
-                    {
+                    "revisaoProva": {
                         "title": "REVISÃO DE PROVA",
-                        "content": "/secretaria/revisaoProva.html"
+                        "content": "/secretaria/revisaoProva"
                     },
-                    {
+                    "trancamentoDisciplina": {
                         "title": "TRANCAMENTO DE DISCIPLINA",
-                        "content": "/secretaria/trancamentoDisciplina.html"
+                        "content": "/secretaria/trancamentoDisciplina"
                     },
-                    {
+                    "trancamentoMatricula": {
                         "title": "TRANCAMENTO DE MATRICULA",
-                        "content": "/secretaria/trancamentoMatricula.html"
+                        "content": "/secretaria/trancamentoMatricula"
                     },
-                    {
+                    "assinaturaContratoEstagio": {
                         "title": "ASSINATURA DE CONTRATO DE ESTÁGIO",
-                        "content": "/secretaria/assinaturaContratoEstagio.html"
+                        "content": "/secretaria/assinaturaContratoEstagio"
                     },
-                    {
+                    "integralizacaoColacaoGrau": {
                         "title": "INTEGRALIZAÇÃO E COLAÇÃO DE GRAU",
-                        "content": "/secretaria/integralizacaoColacaoGrau.html"
+                        "content": "/secretaria/integralizacaoColacaoGrau"
                     },
-                    {
+                    "planoIntegralizacaoCurricular": {
                         "title": "PLANO DE INTEGRALIZAÇÃO CURRICULAR",
-                        "content": "/secretaria/planoIntegralizacaoCurricular.html"
+                        "content": "/secretaria/planoIntegralizacaoCurricular"
                     },
-                    {
+                    "quebraPreRequisitos": {
                         "title": "QUEBRA DE PRÉ-REQUISITOS",
-                        "content": "/secretaria/quebraPreRequisitos.html"
+                        "content": "/secretaria/quebraPreRequisitos"
                     },
-                    {
+                    "realizarConvenio": {
                         "title": "REALIZAR CONVÊNIO",
-                        "content": "/secretaria/realizarConvenio.html"
-                    },
-                    {
-                        "title": "REALIZAR CONVÊNIO",
-                        "content": "/secretaria/realizarConvenio.html"
+                        "content": "/secretaria/realizarConvenio"
                     }
-                ]
+                }
             }
-        ]
+        }
     },
     "institucional": {
         "page": "institucional",
-        "subs": [
-            {
+        "subs": {
+            "institucional": {
                 "title": "Institucional",
-                "content": "/institucional/index.html"
+                "content": "/institucional"
             },
-            {
+            "eia": {
                 "title": "EIA",
-                "content": "/institucional/eia.html"
+                "content": "/institucional/eia"
             },
-            {
+            "ccet": {
                 "title": "CCET",
-                "content": "/institucional/ccet.html"
+                "content": "/institucional/ccet"
             },
-            {
+            "unirio": {
                 "title": "UNIRIO",
-                "content": "/institucional/unirio.html"
+                "content": "/institucional/unirio"
             }
-        ]
+        }
     },
     "noticias": {
         "page": "noticias",
-        "subs": [
-            {
+        "subs": {
+            "noticias": {
                 "title": "Notícias",
-                "content": "/noticias/index.html"
+                "content": "/noticias"
             }
-        ]
+        }
     }
 }

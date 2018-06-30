@@ -1,5 +1,5 @@
 import React from 'react';
-import iBSI from './assets/images/iBSI.png';
+import iBSI from '../assets/images/iBSI.png';
 
 const Header_Small = () => {
     return (
