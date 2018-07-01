@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Header from './components/Header';
 import HeaderSmall from './components/HeaderSmall';
 import './App.css';
-import './bsi.css';
 import MainContainer from './components/MainContainer';
 import OffCanvas from './components/OffCanvas';
 
@@ -13,6 +12,7 @@ class App extends Component {
       <div>
         <Header page={page} />
         <HeaderSmall />
+        <OffCanvas />
         <MainContainer page={page} sub={sub} sub2={sub2}/>
       </div>
     );

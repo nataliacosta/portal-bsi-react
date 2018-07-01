@@ -546,28 +546,28 @@ li[aria-expanded=false] .mdi-expand-less {
 
 /* transforma asides em sub-menus */
 
-#collapseBSI aside,
-#collapseDisciplinas aside,
-#collapseAlunos aside,
-#collapseTCC aside,
-#collapseProfessores aside,
-#collapseOportunidades aside,
-#collapseSecretaria aside,
-#collapseInstitucional aside {
+#collapsebsi aside,
+#collapsedisciplinas aside,
+#collapsealunos aside,
+#collapsetcc aside,
+#collapseprofessores aside,
+#collapseoportunidades aside,
+#collapsesecretaria aside,
+#collapseinstitucional aside {
 	font-family: "Ubuntu", Verdana, sans-serif;
 	text-transform: uppercase;
 	font-size: 9pt;
 	float:left;
    	width:100%;
 }
-#collapseBSI aside .menu li,
-#collapseDisciplinas aside .menu li,
-#collapseAlunos aside .menu li,
-#collapseTCC aside .menu li,
-#collapseProfessores aside .menu li,
-#collapseOportunidades aside .menu li,
-#collapseSecretaria aside .menu li,
-#collapseInstitucional aside .menu li {
+#collapsebsi aside .menu li,
+#collapsedisciplinas aside .menu li,
+#collapsealunos aside .menu li,
+#collapsetcc aside .menu li,
+#collapseprofessores aside .menu li,
+#collapseoportunidades aside .menu li,
+#collapsesecretaria aside .menu li,
+#collapseinstitucional aside .menu li {
 	font-family: "Ubuntu", Verdana, sans-serif;
 	text-transform: uppercase;
 	font-size: 9pt;
@@ -576,59 +576,66 @@ li[aria-expanded=false] .mdi-expand-less {
 	border-bottom: 3px solid #304050;
 }
 
-#collapseBSI aside .menu li a {
+#collapsebsi aside .menu li a {
 	background-color: var(--bsi);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseDisciplinas aside .menu li a {
+#collapsedisciplinas aside .menu li a {
 	background-color: var(--disciplinas);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseAlunos aside .menu li a {
+#collapsealunos aside .menu li a {
 	background-color: var(--alunos);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseTCC aside .menu li a {
+#collapsetcc aside .menu li a {
 	background-color: var(--tcc);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseProfessores aside .menu li a {
+#collapseprofessores aside .menu li a {
 	background-color: var(--professores);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseOportunidades aside .menu li a {
+#collapseoportunidades aside .menu li a {
 	background-color: var(--oportunidades);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseSecretaria aside .menu li a {
+#collapsesecretaria aside .menu li a {
 	background-color: var(--secretaria);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
-#collapseInstitucional aside .menu li a {
+#collapseinstitucional aside .menu li a {
 	background-color: var(--institucional);
 	color: #ffffff;
 	border-bottom: 0;
 	padding-left: 30px;
 }
 
+
+
+
+.subitem a {
+	background-color: #304050 !important;
+	padding-left: 60px !important;
+}

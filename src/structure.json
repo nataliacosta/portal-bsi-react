@@ -1,5 +1,6 @@
 {
     "bsi": {
+        "icon": "iBSI",
         "subs": {
             "bsi": {
                 "title": "BSI - UNIRIO",
@@ -20,6 +21,7 @@
         }
     },
     "disciplinas": {
+        "icon": "iDisciplinas",
         "subs": {
             "disciplinas": {
                 "title": "Disciplinas",
@@ -292,6 +294,7 @@
         }
     },
     "alunos": {
+        "icon": "iAlunos",
         "subs": {
             "alunos": {
                 "title": "Alunos",
@@ -350,6 +353,7 @@
         }
     },
     "tcc": {
+        "icon": "iTCC",
         "subs": {
             "tcc": {
                 "title": "TCC",
@@ -382,10 +386,11 @@
         }
     },
     "professores": {
+        "icon": "iProfessores",
         "subs": {
             "professores": {
                 "title": "Professores",
-                "content": "/processores"
+                "content": "/professores"
             },
             "prof1": {
                 "title": "ADRIANA ALVIM",
@@ -530,6 +535,7 @@
         }
     },
     "oportunidades": {
+        "icon": "iOportunidades",
         "subs": {
             "oportunidades": {
                 "title": "Oportunidades",
@@ -558,6 +564,7 @@
         }
     },
     "secretaria": {
+        "icon": "iSecretaria",
         "page": "secretaria",
         "subs": {
             "secretaria": {
@@ -657,7 +664,7 @@
         }
     },
     "institucional": {
-        "page": "institucional",
+        "icon": "iInstitucional",
         "subs": {
             "institucional": {
                 "title": "Institucional",
@@ -678,7 +685,7 @@
         }
     },
     "noticias": {
-        "page": "noticias",
+        "icon": "iNoticias",
         "subs": {
             "noticias": {
                 "title": "Notícias",

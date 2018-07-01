@@ -22,9 +22,7 @@ class Aside extends Component {
             <aside className="d-none d-lg-block col-lg-3 pt-0 pl-0 pbr-10">
                 <ul className="menu">
                 {Object.keys(this.state.items).map((key) => {
-                    let comp;
                     const classAtivo = "ativo " + this.props.page;
-                    comp = <AsideItem sub={this.state.items[key]} classes={(key === this.state.active ? classAtivo : "")}/>;
                     if (key === this.props.sub && this.state.subitems !== undefined) {
                         return (
                             <div>
@@ -33,17 +31,11 @@ class Aside extends Component {
                             </div>
                         )
                     }
-                    return (comp)
+                    return (<AsideItem sub={this.state.items[key]} classes={(key === this.state.active ? classAtivo : "")}/>)
                 })}
                 </ul>
             </aside>
         )
     }
 }
-/*
-<ul className="menu">
-{Object.keys(items).map((key, i) => {
-    return (<AsideItem sub={items[key]} />)
-})}
-</ul>*/
 export default Aside;
