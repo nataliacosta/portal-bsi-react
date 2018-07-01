@@ -308,7 +308,7 @@
                 "title": "Turmas",
                 "content": "/alunos/turmas"
             },
-            "portal": {
+            "portalalunos": {
                 "title": "Portal do Aluno",
                 "content": "/alunos/portalalunos"
             },
@@ -330,23 +330,23 @@
                 "subs": {
                     "enade2017": {
                         "title": "Questões 2017",
-                        "content": "/alunos/enade2017"
+                        "content": "/alunos/enade/enade2017"
                     },
                     "enade2014": {
                         "title": "Questões 2014",
-                        "content": "/alunos/enade2014"
+                        "content": "/alunos/enade/enade2014"
                     },
                     "enade2011": {
                         "title": "Questões 2011",
-                        "content": "/alunos/enade2011"
+                        "content": "/alunos/enade/enade2011"
                     },
                     "enade2008": {
                         "title": "Questões 2008",
-                        "content": "/alunos/enade2008"
+                        "content": "/alunos/enade/enade2008"
                     },
                     "enade2005": {
                         "title": "Questões 2005",
-                        "content": "/alunos/enade2005"
+                        "content": "/alunos/enade/enade2005"
                     }
                 }
             }
@@ -394,143 +394,143 @@
             },
             "prof1": {
                 "title": "ADRIANA ALVIM",
-                "content": "/http://lattes.cnpq.br/1841338064901299"
+                "content": "http://lattes.cnpq.br/1841338064901299"
             },
             "prof2": {
                 "title": "ALEXANDRE ANDREATTA",
-                "content": "/http://lattes.cnpq.br/5998143228852295"
+                "content": "http://lattes.cnpq.br/5998143228852295"
             },
             "prof3": {
                 "title": "ASTERIO TANAKA",
-                "content": "/http://lattes.cnpq.br/8934031838766350"
+                "content": "http://lattes.cnpq.br/8934031838766350"
             },
             "prof4": {
                 "title": "BENUR GIRARDI",
-                "content": "/http://lattes.cnpq.br/9097100603040676"
+                "content": "http://lattes.cnpq.br/9097100603040676"
             },
             "prof5": {
                 "title": "BEATRIZ MALAJOVICH",
-                "content": "/http://lattes.cnpq.br/7250793021119630"
+                "content": "http://lattes.cnpq.br/7250793021119630"
             },
             "prof6": {
                 "title": "CARLOS CAMPOS",
-                "content": "/http://lattes.cnpq.br/8020803376969953"
+                "content": "http://lattes.cnpq.br/8020803376969953"
             },
             "prof7": {
                 "title": "CARLOS EDUARDO MELLO",
-                "content": "/http://lattes.cnpq.br/2417341890473612"
+                "content": "http://lattes.cnpq.br/2417341890473612"
             },
             "prof8": {
                 "title": "CLAUDIA CAPPELLI",
-                "content": "/http://lattes.cnpq.br/4930762936357558"
+                "content": "http://lattes.cnpq.br/4930762936357558"
             },
             "prof9": {
                 "title": "CRISTIANE DE MELO",
-                "content": "/http://lattes.cnpq.br/6183375000382666"
+                "content": "http://lattes.cnpq.br/6183375000382666"
             },
             "prof10": {
                 "title": "CRISTINA BICHARRA GARCIA",
-                "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4781889E0"
+                "content": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4781889E0"
             },
             "prof11": {
                 "title": "FELIPE RAFAEL RIBEIRO MELO",
-                "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4481222D9"
+                "content": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4481222D9"
             },
             "prof12": {
                 "title": "FERNANDA BAIÃO",
-                "content": "/http://lattes.cnpq.br/5068302552861597"
+                "content": "http://lattes.cnpq.br/5068302552861597"
             },
             "prof13": {
                 "title": "FLÁVIA SANTORO",
-                "content": "/http://lattes.cnpq.br/5377746284077362"
+                "content": "http://lattes.cnpq.br/5377746284077362"
             },
             "prof14": {
                 "title": "GLEISON SANTOS",
-                "content": "/http://lattes.cnpq.br/4616202382103338"
+                "content": "http://lattes.cnpq.br/4616202382103338"
             },
             "prof15": {
                 "title": "GEIZA MARIA HAMAZAKI DA SILVA",
-                "content": "/http://lattes.cnpq.br/2100358669537195"
+                "content": "http://lattes.cnpq.br/2100358669537195"
             },
             "prof16": {
                 "title": "HELISSON COUTINHO",
-                "content": "/http://lattes.cnpq.br/6452434384067273"
+                "content": "http://lattes.cnpq.br/6452434384067273"
             },
             "prof17": {
                 "title": "JEFFERSON ELBERT SIMÕES",
-                "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4237922U4"
+                "content": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4237922U4"
             },
             "prof18": {
                 "title": "JOSÉ RICARDO CEREJA",
-                "content": "/http://lattes.cnpq.br/7653288098116734"
+                "content": "http://lattes.cnpq.br/7653288098116734"
             },
             "prof19": {
                 "title": "KATE REVOREDO",
-                "content": "/http://lattes.cnpq.br/0814717344017544"
+                "content": "http://lattes.cnpq.br/0814717344017544"
             },
             "prof20": {
                 "title": "LEONARDO AZEVEDO",
-                "content": "/http://lattes.cnpq.br/7214791464543522"
+                "content": "http://lattes.cnpq.br/7214791464543522"
             },
             "prof21": {
                 "title": "LEONARDO ROCHA",
-                "content": "/http://lattes.cnpq.br/0780057318850413"
+                "content": "http://lattes.cnpq.br/0780057318850413"
             },
             "prof22": {
                 "title": "LUCIA MOUTINHO",
-                "content": "/http://lattes.cnpq.br/8226635424466952"
+                "content": "http://lattes.cnpq.br/8226635424466952"
             },
             "prof23": {
                 "title": "LUZIA TONON",
-                "content": "/http://lattes.cnpq.br/2170224269934506"
+                "content": "http://lattes.cnpq.br/2170224269934506"
             },
             "prof24": {
                 "title": "MANUEL CANÁRIO",
-                "content": "/http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4227680D8"
+                "content": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4227680D8"
             },
             "prof25": {
                 "title": "MARCELO NASCIMENTO",
-                "content": "/http://lattes.cnpq.br/8150788816388146"
+                "content": "http://lattes.cnpq.br/8150788816388146"
             },
             "prof26": {
                 "title": "MÁRCIO BARROS",
-                "content": "/http://lattes.cnpq.br/0821562324429813"
+                "content": "http://lattes.cnpq.br/0821562324429813"
             },
             "prof27": {
                 "title": "MARIANO PIMENTEL",
-                "content": "/http://lattes.cnpq.br/1920411639358905"
+                "content": "http://lattes.cnpq.br/1920411639358905"
             },
             "prof28": {
                 "title": "MORGANNA DINIZ",
-                "content": "/http://lattes.cnpq.br/1415781875529432"
+                "content": "http://lattes.cnpq.br/1415781875529432"
             },
             "prof29": {
                 "title": "PEDRO MOURA",
-                "content": "/http://lattes.cnpq.br/6178823954090208"
+                "content": "http://lattes.cnpq.br/6178823954090208"
             },
             "prof30": {
                 "title": "RENATA ARAÚJO",
-                "content": "/http://lattes.cnpq.br/3589012014320121"
+                "content": "http://lattes.cnpq.br/3589012014320121"
             },
             "prof31": {
                 "title": "RODRIGO SANTOS",
-                "content": "/http://lattes.cnpq.br/8613736894676086"
+                "content": "http://lattes.cnpq.br/8613736894676086"
             },
             "prof32": {
                 "title": "SEAN SIQUEIRA",
-                "content": "/http://lattes.cnpq.br/2562652838103607"
+                "content": "http://lattes.cnpq.br/2562652838103607"
             },
             "prof33": {
                 "title": "SIDNEY LUCENA",
-                "content": "/http://lattes.cnpq.br/7099151449971406"
+                "content": "http://lattes.cnpq.br/7099151449971406"
             },
             "prof34": {
                 "title": "SIMONE LEAL FERREIRA",
-                "content": "/http://lattes.cnpq.br/0926018459123736"
+                "content": "http://lattes.cnpq.br/0926018459123736"
             },
             "prof35": {
                 "title": "VÂNIA FÉLIX DIAS",
-                "content": "/http://lattes.cnpq.br/0398675521406529"
+                "content": "http://lattes.cnpq.br/0398675521406529"
             }
         }
     },
@@ -543,15 +543,15 @@
             },
             "prae": {
                 "title": "PRAE",
-                "content": "/http://www.unirio.br/pro-reitorias/pro-reitoria-de-assuntos-estudantis"
+                "content": "http://www.unirio.br/pro-reitorias/pro-reitoria-de-assuntos-estudantis"
             },
             "monitoria": {
                 "title": "Monitoria",
-                "content": "/http://www.unirio.br/prograd/editais"
+                "content": "http://www.unirio.br/prograd/editais"
             },
             "inicient": {
                 "title": "Iniciação Científica",
-                "content": "/http://www.unirio.br/propg/diretoria-de-pesquisa/legislacao/regulamentacao-programa-de-iniciacao-cientifica/at_download/file"
+                "content": "http://www.unirio.br/propg/diretoria-de-pesquisa/legislacao/regulamentacao-programa-de-iniciacao-cientifica/at_download/file"
             },
             "mobilidade": {
                 "title": "Mobilidade Acadêmica",
@@ -559,7 +559,7 @@
             },
             "estagios": {
                 "title": "Estágios",
-                "content": "/http://www.unirio.br/prograd/estagios-e-convenios"
+                "content": "http://www.unirio.br/prograd/estagios-e-convenios"
             }
         }
     },
@@ -573,91 +573,91 @@
             },
             "atendimento": {
                 "title": "Atendimento ao Aluno",
-                "content": "/secretaria/atendimentoAoAluno",
+                "content": "/secretaria/atendimento",
                 "subs": {
                     "atualizacaoCadastro": {
                         "title": "ATUALIZAÇÃO DE CADASTRO",
-                        "content": "/secretaria/atualizacaoCadastro"
+                        "content": "/secretaria/atendimento/atualizacaoCadastro"
                     },
                     "atualizacaoMatricula": {
                         "title": "CANCELAMENTO DE MATRICULA",
-                        "content": "/secretaria/atualizacaoMatricula"
+                        "content": "/secretaria/atendimento/atualizacaoMatricula"
                     },
                     "emissaoCertificadoDiploma": {
                         "title": "EMISSÃO DE CERTIFICADO DO DIPLOMA",
-                        "content": "/secretaria/emissaoCertificadoDiploma"
+                        "content": "/secretaria/atendimento/emissaoCertificadoDiploma"
                     },
                     "declaracaoRegularmenteMatriculado": {
                         "title": "DECLARAÇÃO DE REGULARMENTE MATRICULADO",
-                        "content": "/secretaria/declaracaoRegularmenteMatriculado"
+                        "content": "/secretaria/atendimento/declaracaoRegularmenteMatriculado"
                     },
                     "declaracaoConclusaoCurso": {
                         "title": "DECLARAÇÃO DE CONCLUSÃO DE CURSO",
-                        "content": "/secretaria/declaracaoConclusaoCurso"
+                        "content": "/secretaria/atendimento/declaracaoConclusaoCurso"
                     },
                     "declaracaoContagemCreditos": {
                         "title": "DECLARAÇÃO DE CONTAGEM DE CRÉDITOS",
-                        "content": "/secretaria/declaracaoContagemCreditos"
+                        "content": "/secretaria/atendimento/declaracaoContagemCreditos"
                     },
                     "emissaoHistoricoEscolar": {
                         "title": "EMISSÃO DE HISTÓRICO ESCOLAR",
-                        "content": "/secretaria/emissaoHistoricoEscolar"
+                        "content": "/secretaria/atendimento/emissaoHistoricoEscolar"
                     },
                     "emissaoProgramaDisciplinas": {
                         "title": "EMISSAO DO PROGRAMA DE DISCIPLINAS",
-                        "content": "/secretaria/emissaoProgramaDisciplinas"
+                        "content": "/secretaria/atendimento/emissaoProgramaDisciplinas"
                     },
                     "exclusaoDisciplina": {
                         "title": "EXCLUSÃO DE DISCIPLINA",
-                        "content": "/secretaria/exclusaoDisciplina"
+                        "content": "/secretaria/atendimento/exclusaoDisciplina"
                     },
                     "inclusaoDisciplina": {
                         "title": "INCLUSÃO DE DISCIPLINA",
-                        "content": "/secretaria/inclusaoDisciplina"
+                        "content": "/secretaria/atendimento/inclusaoDisciplina"
                     },
                     "inscricaoDisciplinaIsolada": {
                         "title": "INSCRIÇÃO EM DISCIPLINA ISOLADA",
-                        "content": "/secretaria/inscricaoDisciplinaIsolada"
+                        "content": "/secretaria/atendimento/inscricaoDisciplinaIsolada"
                     },
                     "isencaoAproveitamentoDisciplina": {
                         "title": "ISENÇÃO OU APROVEITAMENTO DE DISCIPLINA",
-                        "content": "/secretaria/isencaoAproveitamentoDisciplina"
+                        "content": "/secretaria/atendimento/isencaoAproveitamentoDisciplina"
                     },
                     "realizacaoSegundaChamadaProva": {
                         "title": "REALIZAÇÃO DE SEGUNDA CHAMADA DE PROVA",
-                        "content": "/secretaria/realizacaoSegundaChamadaProva"
+                        "content": "/secretaria/atendimento/realizacaoSegundaChamadaProva"
                     },
                     "revisaoProva": {
                         "title": "REVISÃO DE PROVA",
-                        "content": "/secretaria/revisaoProva"
+                        "content": "/secretaria/atendimento/revisaoProva"
                     },
                     "trancamentoDisciplina": {
                         "title": "TRANCAMENTO DE DISCIPLINA",
-                        "content": "/secretaria/trancamentoDisciplina"
+                        "content": "/secretaria/atendimento/trancamentoDisciplina"
                     },
                     "trancamentoMatricula": {
                         "title": "TRANCAMENTO DE MATRICULA",
-                        "content": "/secretaria/trancamentoMatricula"
+                        "content": "/secretaria/atendimento/trancamentoMatricula"
                     },
                     "assinaturaContratoEstagio": {
                         "title": "ASSINATURA DE CONTRATO DE ESTÁGIO",
-                        "content": "/secretaria/assinaturaContratoEstagio"
+                        "content": "/secretaria/atendimento/assinaturaContratoEstagio"
                     },
                     "integralizacaoColacaoGrau": {
                         "title": "INTEGRALIZAÇÃO E COLAÇÃO DE GRAU",
-                        "content": "/secretaria/integralizacaoColacaoGrau"
+                        "content": "/secretaria/atendimento/integralizacaoColacaoGrau"
                     },
                     "planoIntegralizacaoCurricular": {
                         "title": "PLANO DE INTEGRALIZAÇÃO CURRICULAR",
-                        "content": "/secretaria/planoIntegralizacaoCurricular"
+                        "content": "/secretaria/atendimento/planoIntegralizacaoCurricular"
                     },
                     "quebraPreRequisitos": {
                         "title": "QUEBRA DE PRÉ-REQUISITOS",
-                        "content": "/secretaria/quebraPreRequisitos"
+                        "content": "/secretaria/atendimento/quebraPreRequisitos"
                     },
                     "realizarConvenio": {
                         "title": "REALIZAR CONVÊNIO",
-                        "content": "/secretaria/realizarConvenio"
+                        "content": "/secretaria/atendimento/realizarConvenio"
                     }
                 }
             }
