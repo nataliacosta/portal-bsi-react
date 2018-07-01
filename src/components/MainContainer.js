@@ -16,7 +16,7 @@ const MainContainer = (props) => {
         <div className="container-small">
             <div className="container">
                 <div className="row">
-                    <Aside items={structure[props.page].subs}/>
+                    <Aside page={props.page} sub={props.sub} sub2={props.sub2}/>
                     <Content path={contentPath} />
                 </div>
             </div>

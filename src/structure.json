@@ -31,143 +31,143 @@
                 "subs": {
                     "admfinanceira": {
                         "title": "Administração Financeira",
-                        "content": "/disciplinas/ementas/admfinanceira"
+                        "content": "/disciplinas/obrigatorias/admfinanceira"
                     },
                     "alglinear": {
                         "title": "Álgebra Linear",
-                        "content": "/disciplinas/ementas/alglinear"
+                        "content": "/disciplinas/obrigatorias/alglinear"
                     },
                     "aa": {
                         "title": "Análise de Algoritmo",
-                        "content": "/disciplinas/ementas/aa"
+                        "content": "/disciplinas/obrigatorias/aa"
                     },
                     "as": {
                         "title": "Análise de Sistemas",
-                        "content": "/disciplinas/ementas/as"
+                        "content": "/disciplinas/obrigatorias/as"
                     },
                     "aea": {
                         "title": "Análise Empresarial e Admin.",
-                        "content": "/disciplinas/ementas/aea"
+                        "content": "/disciplinas/obrigatorias/aea"
                     },
                     "bd1": {
                         "title": "Banco de Dados I",
-                        "content": "/disciplinas/ementas/bd1"
+                        "content": "/disciplinas/obrigatorias/bd1"
                     },
                     "bd2": {
                         "title": "Banco de Dados II",
-                        "content": "/disciplinas/ementas/bd2"
+                        "content": "/disciplinas/obrigatorias/bd2"
                     },
                     "calc1": {
                         "title": "Cálculo Diferenc. e Integral I",
-                        "content": "/disciplinas/ementas/calc1"
+                        "content": "/disciplinas/obrigatorias/calc1"
                     },
                     "calc2": {
                         "title": "Cálculo Diferenc. e Integral II",
-                        "content": "/disciplinas/ementas/calc2"
+                        "content": "/disciplinas/obrigatorias/calc2"
                     },
                     "dpw": {
                         "title": "Desenvolv. de Páginas Web",
-                        "content": "/disciplinas/ementas/dpw"
+                        "content": "/disciplinas/obrigatorias/dpw"
                     },
                     "empreendedorismo": {
                         "title": "Empreendedorismo",
-                        "content": "/disciplinas/ementas/empreendedorismo"
+                        "content": "/disciplinas/obrigatorias/empreendedorismo"
                     },
                     "estatistica": {
                         "title": "Estatística",
-                        "content": "/disciplinas/ementas/estatistica"
+                        "content": "/disciplinas/obrigatorias/estatistica"
                     },
                     "ed1": {
                         "title": "Estruturas de Dados I",
-                        "content": "/disciplinas/ementas/ed1"
+                        "content": "/disciplinas/obrigatorias/ed1"
                     },
                     "ed2": {
                         "title": "Estruturas de Dados II",
-                        "content": "/disciplinas/ementas/ed2"
+                        "content": "/disciplinas/obrigatorias/ed2"
                     },
                     "edc": {
                         "title": "Estruturas Discretas",
-                        "content": "/disciplinas/ementas/edc"
+                        "content": "/disciplinas/obrigatorias/edc"
                     },
                     "fsi": {
                         "title": "Fund. de Sist. de Informação",
-                        "content": "/disciplinas/ementas/fsi"
+                        "content": "/disciplinas/obrigatorias/fsi"
                     },
                     "gpi": {
                         "title": "Gerência de Proj. de Informat.",
-                        "content": "/disciplinas/ementas/gpi"
+                        "content": "/disciplinas/obrigatorias/gpi"
                     },
                     "ihc": {
                         "title": "Interação Humano Computador",
-                        "content": "/disciplinas/ementas/ihc"
+                        "content": "/disciplinas/obrigatorias/ihc"
                     },
                     "ilc": {
                         "title": "Introdução à Lógica Computac.",
-                        "content": "/disciplinas/ementas/intlogcomp"
+                        "content": "/disciplinas/obrigatorias/ilc"
                     },
                     "lfa": {
                         "title": "Linguag. Formais e Autômatos",
-                        "content": "/disciplinas/ementas/lfa"
+                        "content": "/disciplinas/obrigatorias/lfa"
                     },
                     "matematica": {
                         "title": "Matemática Básica",
-                        "content": "/disciplinas/ementas/matematica"
+                        "content": "/disciplinas/obrigatorias/matematica"
                     },
                     "oc": {
                         "title": "Organização de Computadores",
-                        "content": "/disciplinas/ementas/oc"
+                        "content": "/disciplinas/obrigatorias/oc"
                     },
                     "prob": {
                         "title": "Probabilidade",
-                        "content": "/disciplinas/ementas/prob"
+                        "content": "/disciplinas/obrigatorias/prob"
                     },
                     "psw": {
                         "title": "Processos de Software",
-                        "content": "/disciplinas/ementas/psw"
+                        "content": "/disciplinas/obrigatorias/psw"
                     },
                     "pm": {
                         "title": "Programação Modular",
-                        "content": "/disciplinas/ementas/pm"
+                        "content": "/disciplinas/obrigatorias/pm"
                     },
                     "pg1": {
                         "title": "Projeto de Graduação I",
-                        "content": "/disciplinas/ementas/pg1"
+                        "content": "/disciplinas/obrigatorias/pg1"
                     },
                     "pg2": {
                         "title": "Projeto de Graduação II",
-                        "content": "/disciplinas/ementas/pg2"
+                        "content": "/disciplinas/obrigatorias/pg2"
                     },
                     "pcs": {
                         "title": "Proj. e Const. de Sistemas",
-                        "content": "/disciplinas/ementas/pcs"
+                        "content": "/disciplinas/obrigatorias/pcs"
                     },
                     "pcssgbd": {
                         "title": "Proj. Const. Sistemas-SGBD",
-                        "content": "/disciplinas/ementas/pcssgbd"
+                        "content": "/disciplinas/obrigatorias/pcssgbd"
                     },
                     "redes1": {
                         "title": "Redes de Computadores I",
-                        "content": "/disciplinas/ementas/redes1"
+                        "content": "/disciplinas/obrigatorias/redes1"
                     },
                     "redes2": {
                         "title": "Redes de Computadores II",
-                        "content": "/disciplinas/ementas/redes2"
+                        "content": "/disciplinas/obrigatorias/redes2"
                     },
                     "so": {
                         "title": "Sistemas Operacionais",
-                        "content": "/disciplinas/ementas/so"
+                        "content": "/disciplinas/obrigatorias/so"
                     },
                     "tp1": {
                         "title": "Técnicas de Programação I",
-                        "content": "/disciplinas/ementas/tp1"
+                        "content": "/disciplinas/obrigatorias/tp1"
                     },
                     "tp2": {
                         "title": "Técnicas de Programação II",
-                        "content": "/disciplinas/ementas/tp2"
+                        "content": "/disciplinas/obrigatorias/tp2"
                     },
                     "tpd": {
                         "title": "Teorias e Práticas Discursivas",
-                        "content": "/disciplinas/ementas/tpd"
+                        "content": "/disciplinas/obrigatorias/tpd"
                     }
                 }
             },
@@ -181,103 +181,103 @@
                 "subs": {
                     "admbd": {
                         "title": "Administ. de Banco de Dados",
-                        "content": "/disciplinas/ementas/admbd"
+                        "content": "/disciplinas/optativas/admbd"
                     },
                     "algprobcomb": {
                         "title": "Algoritmos p/ Prob. Combinat.",
-                        "content": "/disciplinas/ementas/algprobcomb"
+                        "content": "/disciplinas/optativas/algprobcomb"
                     },
                     "unix": {
                         "title": "Ambiente Operacional Unix",
-                        "content": "/disciplinas/ementas/ambopunix"
+                        "content": "/disciplinas/optativas/unix"
                     },
                     "compiladores": {
                         "title": "Compiladores",
-                        "content": "/disciplinas/ementas/compiladores"
+                        "content": "/disciplinas/optativas/compiladores"
                     },
                     "compgrafica": {
                         "title": "Computação Gráfica",
-                        "content": "/disciplinas/ementas/compgrafica"
+                        "content": "/disciplinas/optativas/compgrafica"
                     },
                     "compsegdados": {
                         "title": "Computação e Segurança de Dados",
-                        "content": "/disciplinas/ementas/comsegdados"
+                        "content": "/disciplinas/optativas/comsegdados"
                     },
                     "dsw": {
                         "title": "Desenvolv. de Servidor Web",
-                        "content": "/disciplinas/ementas/dsw"
+                        "content": "/disciplinas/optativas/dsw"
                     },
                     "fluxosredes": {
                         "title": "Fluxos em Redes",
-                        "content": "/disciplinas/ementas/fluxosredes"
+                        "content": "/disciplinas/optativas/fluxosredes"
                     },
                     "fundrcr": {
                         "title": "Fund. Repr. Conh. e Raciocínio",
-                        "content": "/disciplinas/ementas/fundrcr"
+                        "content": "/disciplinas/optativas/fundrcr"
                     },
                     "gdadp": {
                         "title": "Gerência de Dados em Amb. Distribuídos e Paralelos",
-                        "content": "/disciplinas/ementas/gdadp"
+                        "content": "/disciplinas/optativas/gdadp"
                     },
                     "gpn": {
                         "title": "Gest. de Processos de Negócios",
-                        "content": "/disciplinas/ementas/gpn"
+                        "content": "/disciplinas/optativas/gpn"
                     },
                     "infoeduc": {
                         "title": "Informática na Educação",
-                        "content": "/disciplinas/ementas/infoeduc"
+                        "content": "/disciplinas/optativas/infoeduc"
                     },
                     "ia": {
                         "title": "Inteligência Artificial",
-                        "content": "/disciplinas/ementas/ia"
+                        "content": "/disciplinas/optativas/ia"
                     },
                     "proglinear": {
                         "title": "Programação Linear",
-                        "content": "/disciplinas/ementas/proglinear"
+                        "content": "/disciplinas/optativas/proglinear"
                     },
                     "siscolab": {
                         "title": "Sistemas Colaborativos",
-                        "content": "/disciplinas/ementas/siscolab"
+                        "content": "/disciplinas/optativas/siscolab"
                     },
                     "sismultimidia": {
                         "title": "Sistemas Multimídia",
-                        "content": "/disciplinas/ementas/sismultimidia"
+                        "content": "/disciplinas/optativas/sismultimidia"
                     },
                     "taa1": {
                         "title": "Tóp. Avançados em Algoritmos",
-                        "content": "/disciplinas/ementas/taa1"
+                        "content": "/disciplinas/optativas/taa1"
                     },
                     "tabd1": {
                         "title": "Tóp. Avançados em BD I",
-                        "content": "/disciplinas/ementas/tabd1"
+                        "content": "/disciplinas/optativas/tabd1"
                     },
                     "tabd2": {
                         "title": "Tóp. Avançados em BD II",
-                        "content": "/disciplinas/ementas/tabd2"
+                        "content": "/disciplinas/optativas/tabd2"
                     },
                     "tabd3": {
                         "title": "Tóp. Avançados em BD III",
-                        "content": "/disciplinas/ementas/tabd3"
+                        "content": "/disciplinas/optativas/tabd3"
                     },
                     "taes1": {
                         "title": "Tóp. Avançados em Eng. Sw. I",
-                        "content": "/disciplinas/ementas/taes1"
+                        "content": "/disciplinas/optativas/taes1"
                     },
                     "taes2": {
                         "title": "Tóp. Avançados em Eng. Sw. II",
-                        "content": "/disciplinas/ementas/taes2"
+                        "content": "/disciplinas/optativas/taes2"
                     },
                     "tarc1": {
                         "title": "Tóp. Avan. em Redes de Comp. I",
-                        "content": "/disciplinas/ementas/tarc1"
+                        "content": "/disciplinas/optativas/tarc1"
                     },
                     "tarc2": {
                         "title": "Tóp. Avan. em Redes de Comp. II",
-                        "content": "/disciplinas/ementas/tarc2"
+                        "content": "/disciplinas/optativas/tarc2"
                     },
                     "tarc3": {
                         "title": "Tóp. Avan. em Redes de Comp. III",
-                        "content": "/disciplinas/ementas/tarc3"
+                        "content": "/disciplinas/optativas/tarc3"
                     }
                 }
             },

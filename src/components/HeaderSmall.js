@@ -1,9 +1,9 @@
 import React from 'react';
 import iBSI from '../assets/images/iBSI.png';
-import { openNav, closeNav } from '../assets/js/offcanvas.js';
+import { openNav, closeNav } from '../assets/js/offcanvas';
 import '../assets/css/material-design-icons/css/material-icons.min.css';
 
-const Header_Small = () => {
+const HeaderSmall = () => {
     return (
         <header className="header-min d-xs-block d-lg-none">
             <div className="container-small h-100">
@@ -25,4 +25,4 @@ const Header_Small = () => {
     )
 }
 
-export default Header_Small;
+export default HeaderSmall;
