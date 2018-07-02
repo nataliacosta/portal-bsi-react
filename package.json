@@ -5,6 +5,7 @@
   "dependencies": {
     "ajv": "^6.5.1",
     "ajv-keywords": "^3.2.0",
+    "bootstrap": "^4.1.1",
     "file-loader": "^1.1.11",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3",
