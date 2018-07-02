@@ -18,7 +18,7 @@ const HeaderSmall = () => {
                             <br/>INFORMAÇÃO
                         </span>
                     </p>
-                    <div width="40px"></div>
+                    <div style={{width: "40px"}}></div>
                 </div>
             </div>
         </header>

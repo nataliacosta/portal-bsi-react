@@ -13,13 +13,14 @@ class App extends Component {
   render() {
     const { page, sub, sub2 } = this.props.match.params;
     return (
-      <div>
+      <body>
+        <script src="http://barra.brasil.gov.br/barra.js" type="text/javascript"></script>
         <Header page={page} />
         <HeaderSmall />
         <OffCanvas />
         <MainContainer page={page} sub={sub} sub2={sub2}/>
         <Footer />
-      </div>
+      </body>
     );
   }
 }

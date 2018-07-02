@@ -259,7 +259,7 @@ aside{
 	position: relative;
 }
 
-.menu li a{
+.menu li a {
 	display: block;
     text-decoration: none;
     color: #404040;
@@ -460,8 +460,14 @@ footer {
 	list-style-type: none;
 }
 
-.menuOffcanvas li{
+.menuOffcanvas li a {
+	text-decoration: none;
 	position: relative;
+	padding-right: 8px;
+}
+
+.clearBackgroundImage {
+	background-image: none !important;
 }
 
 .header_offcanvas {

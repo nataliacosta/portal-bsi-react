@@ -17,11 +17,13 @@ const OffCanvas = (props) => {
                     Object.keys(structure).map((key, i) => {
                         return (
                             <div>
-                                <li className="border-bottom b-bsi d-inline-flex align-items-center pl-2 pr-2 w-100" href={"#collapse" + key} data-toggle="collapse" aria-expanded="false">
-                                    <img src={"/images/" + structure[key].icon + ".png"} alt={key} className="iconePequeno"/>
-                                    <div className="titulo">{structure[key].subs[key].title}</div>
-                                    <i className="mdi mdi-2x mdi-expand-more text-white ml-auto"></i>
-                                    <i className="mdi mdi-2x mdi-expand-less text-white ml-auto"></i>
+                                <li className={"border-bottom b-" + key + " pl-2 w-100"} data-target={"#collapse" + key} data-toggle="collapse" aria-expanded="false">
+                                    <a data-target={"#collapse"+key} href={"#collapse" + key} className="d-inline-flex align-items-center w-100">
+                                        <img src={"/images/" + structure[key].icon + ".png"} alt={key} className="iconePequeno"/>
+                                        <div className="titulo">{structure[key].subs[key].title}</div>
+                                        <i className="mdi mdi-2x mdi-expand-more text-white ml-auto"></i>
+                                        <i className="mdi mdi-2x mdi-expand-less text-white ml-auto"></i>
+                                    </a>
                                 </li>
                                 <div className="collapse" id={"collapse" + key}>
                                     <OffCanvasSubitem page={key} items={structure[key].subs}/>
